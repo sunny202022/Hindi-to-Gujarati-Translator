@@ -1,7 +1,5 @@
 torch==2.5.0
 numpy==1.26.4
-time
-math
 torchvision==0.20.0
 streamlit
 Pillow
